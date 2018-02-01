@@ -16,3 +16,6 @@ python tensorflow/examples/label_image/label_image.py \
 ```
 4. Class probabilities should output to console.
 
+### Training
+Images were gathered using a batch image chrome extension. Keywords were simply "Man" and "Woman" so the classifier is representative of Google Image search results, not my opinion.
+
